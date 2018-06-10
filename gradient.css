@@ -1,0 +1,13 @@
+@charset "us-ascii";
+
+body {
+  background: linear-gradient(0deg, rgb(18,77, 82), rgb(10, 42, 72));
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  padding-top: 100px;
+  max-width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  text-align: center;
+}
